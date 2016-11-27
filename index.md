@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Tackling engineering design problems with tools from convex optimization and computer science.
+Tackling AWESOME engineering design problems with tools from convex optimization and computer science.
 
 
 ### Recent posts
