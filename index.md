@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+**September 2017** the Hoburg Research Group is now the [Convex Engineering Group](https://convexengineering.github.io). Visit that site for up-to-date information; this one is an archive of the HRG site as of 2017.
+
+---
+
 The goal of our research is more reliable and efficient ways to design engineering systems. To accomplish this, we draw heavily on mathematical tools from convex optimization. One product of our group's work is <a href="http://gpkit.readthedocs.io/en/latest/">GPkit</a>, a software package for geometric programming.
 <br>
 
